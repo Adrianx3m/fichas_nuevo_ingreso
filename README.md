@@ -6,8 +6,8 @@
 </h4>
 <h4 align="center">
     Contribuidores: 
-<a href="https://travis-ci.org/laravel/framework"><img src="https://travis-ci.org/laravel/framework.svg" alt="Build Status"></a>
-    <a href="https://travis-ci.org/laravel/framework"><img src="https://avatars.githubusercontent.com/u/39929750?v=4" width="50" heigth="50" alt="github.com/Adrianx3m" title="Adrianx3m"></a>
+<a href="https://github.com/belmont04"><img src="https://avatars.githubusercontent.com/u/55644638?s=64&v=4" width="50" heigth="50" alt="github.com/belmont04" title="belmont04"></a>
+    <a href="https://github.com/Adrianx3m"><img src="https://avatars.githubusercontent.com/u/39929750?v=4" width="50" heigth="50" alt="github.com/Adrianx3m" title="Adrianx3m"></a>
 </h4>
 
 ## Acerca del Sistema Solicitud de fichas para nuevo ingreso
