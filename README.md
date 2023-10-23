@@ -2,7 +2,9 @@
 
 <h4 align="center">
     Autor: 
-<a href="https://travis-ci.org/laravel/framework"><img src="https://travis-ci.org/laravel/framework.svg" alt="Build Status"></a>
+<h4 align="center">
+    Contribuidores: 
+<a href="#"><img src="https://avatars.githubusercontent.com/u/55644638?s=64&v=4" width="50" heigth="50" alt="Zorobabel" title="Eadem Zorobabel Rodriguez Solis"></a>
 </h4>
 <h4 align="center">
     Contribuidores: 
